@@ -1,6 +1,6 @@
 mhs={
-  function halo(nama) {
-    console.log.nama
+   halo(nama) {
+    console.log(nama);
   }
 }
 
